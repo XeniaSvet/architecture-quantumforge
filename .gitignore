@@ -1,0 +1,10 @@
+﻿.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+*.gguf
+Modelfile
+.DS_Store
+
+.cache/
